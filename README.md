@@ -179,3 +179,10 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+## W&B and Github Repository Links
+W&B:
+https://wandb.ai/datalytix-western-governors-university/nyc_airbnb/overview
+Github:
+https://github.com/datalytix-777/Project-Build-an-ML-Pipeline-Starter/releases/tag/1.0.1
